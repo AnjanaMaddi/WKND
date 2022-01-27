@@ -1,0 +1,36 @@
+#description{
+    padding: 3.5em 2em 2em;
+    background: #ebebeb;
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    text-align: left;
+    color: #202020;
+    line-height: 1.5;
+}
+
+#description .card-title{
+    color: #202020;
+    font-family: Asar,Georgia,Times New Roman,Times,serif;
+    font-size: 36px;
+}
+
+#description .card-text{
+    color: #202020;
+    font-family: Asar,Georgia,Times New Roman,Times,serif;
+    font-size: 14px;
+}
+
+#photo{
+    padding: 0px;
+}
+
+#photo img{
+    width: 100%;
+    height: 100%;
+}
+#description .read-more-button{
+    margin-top: 10px;
+    border: None;
+    background: #ffea00;
+    color: #202020;
+}
